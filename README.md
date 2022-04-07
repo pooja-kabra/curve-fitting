@@ -14,3 +14,5 @@ Given a video of a ball flying through the air, we will fit a curve to the traje
 <p align="left">
   <img src="https://github.com/pooja-kabra/curve-fitting/blob/main/results/noisy_video.png" alt="noisy results" width = "648" height = "432"/>
 </p>
+
+Check out report for details on implementation!
